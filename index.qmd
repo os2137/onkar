@@ -13,7 +13,7 @@ about:
    - text: GitHub
      icon: github
      href: https://github.com/os2137
-   - text: resume
+   - text: Resume
      icon: file-text
      href: Resume_Onkar_Singh.pdf
 ---
