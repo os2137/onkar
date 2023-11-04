@@ -2,10 +2,4 @@
 title: "Onkar Singh"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Master of International Affairs from Columbia University (NYC) with 20 years of hands-on experience in Corporate Social Responsibility, Sustainability, Employee Engagement, Inclusion & Diversity and Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management, and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.**
