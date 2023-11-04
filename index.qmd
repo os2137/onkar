@@ -13,7 +13,7 @@ about:
    - text: Resume
      icon: file-text
      href: Resume_Onkar_Singh.pdf
-   - text: LinkedIn
+   - text: Linkedin
      icon: linkedin
      href: https://www.linkedin.com/in/onkarcsrandsustainability/
    - text: Twitter
