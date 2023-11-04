@@ -1,5 +1,21 @@
 ---
 title: "Onkar Singh"
+image: onkar.jpeg
+resources: Resume_Onkar_Singh.pdf
+about:
+ template: jolla
+ image-shape: round
+ image-width: 15em
+ links: 
+   - text: Email
+     icon: envelope
+     href: mailto:os2137@caa.columbia.edu
+   - text: GitHub
+     icon: github
+     href: https://github.com/os2137
+   - text: resume
+     icon: file-text
+     href: Resume_Onkar_Singh.pdf
 ---
 
 **Master of International Affairs from Columbia University (NYC) with 20 years of hands-on experience in Corporate Social Responsibility, Sustainability, Employee Engagement, Inclusion & Diversity and Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management, and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.**
