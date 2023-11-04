@@ -10,12 +10,18 @@ about:
    - text: Email
      icon: envelope
      href: mailto:os2137@caa.columbia.edu
+   - text: Resume
+     icon: file-text
+     href: Resume_Onkar_Singh.pdf
+   - text: LinkedIn
+     icon: linkedin
+     href: https://www.linkedin.com/in/onkarcsrandsustainability/
+   - text: Twitter
+     icon: twitter-x
+     href: https://twitter.com/onkartweets
    - text: GitHub
      icon: github
      href: https://github.com/os2137
-   - text: Resume
-     icon: file-text
-     href: onkar/Resume_Onkar_Singh.pdf
 ---
 
 **Master of International Affairs from Columbia University (NYC) with 20 years of hands-on experience in Corporate Social Responsibility, Sustainability, Employee Engagement, Inclusion & Diversity and Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management, and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.**

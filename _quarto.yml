@@ -16,8 +16,8 @@ format:
     theme: sandstone
     mainfont: arial
     fontsize: 1.5rem
-    fontcolor: "#CC8899"
-    linkcolor: "#ff33f0"
+    fontcolor: "#17202A"
+    linkcolor: "#C70039"
     monofont: courier new
     css: styles.css
     toc: true
