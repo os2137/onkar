@@ -1,7 +1,7 @@
 ---
 title: "Onkar Singh"
 image: onkar.jpeg
-resources: Resume_Onkar_Singh.pdf
+# resources: Resume_Onkar_Singh.pdf
 about:
  template: jolla
  image-shape: round
